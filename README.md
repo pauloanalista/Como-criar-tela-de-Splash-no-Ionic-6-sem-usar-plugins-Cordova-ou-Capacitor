@@ -1,0 +1,1 @@
+# Como-criar-tela-de-Splash-no-Ionic-6-sem-usar-plugins-Cordova-ou-Capacitor
